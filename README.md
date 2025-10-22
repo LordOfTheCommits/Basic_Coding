@@ -10,3 +10,6 @@ git clone git@github-zuhair:LordOfTheCommits/Basic_Coding.git
 # note aliasname is in config file of .ssh folder
 
 ========================================================================
+# To set user locallly (now code will be pushed from provided credentials)
+git config user.name "Brother's Name"
+git config user.email "brother@email.com"
